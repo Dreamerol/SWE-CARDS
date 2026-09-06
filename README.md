@@ -19,7 +19,7 @@
    
 
 <h3 align="center">
-  Mihaela Koseva (Sofia University) • Algorithms & Data Structures • OOP • Python • SQL
+  Mihaela Koseva • Algorithms & Data Structures • OOP • Python • SQL
 </h3>
 
 
