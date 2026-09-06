@@ -18,9 +18,9 @@
  
    
 
-<h2 align="center">
+<h1 align="center">
   Mihaela Koseva • Algorithms & Data Structures • OOP • Python • SQL
-</h2>
+</h1>
 
 
 
