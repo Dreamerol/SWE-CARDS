@@ -238,7 +238,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 <td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-ALGORITHMS">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-CARDFOLIO.jpg"
 width="320" height="220" style="object-fit:cover;object-position:center;border-radius:16px;display:block;margin:0 auto;">
 </a>
